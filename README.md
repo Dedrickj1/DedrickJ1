@@ -32,11 +32,26 @@ I'm a software engineer who loves bringing ideas to life through code. I enjoy w
 
 ---
 
+### 📍 Location
+
+Pike Road, Alabama
+
+---
+
 ### 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/dedrick-jackson-627528171/)
+- 📧 Email: dedrickj53@gmail.com
 
 ---
+
+### 🎮 Fun Fact
+
+Outside of coding, I love trying out new tech, learning about emerging trends, and gaming. Always open to connecting with fellow tech enthusiasts!
+
+---
+
+*Let's build something amazing together!*
 
 ### 🎮 Fun Fact
 
